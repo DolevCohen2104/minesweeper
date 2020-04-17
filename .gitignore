@@ -1,0 +1,11 @@
+PROJECT
+*.LST
+*.MAP
+RTM
+TASM
+TD
+*.TD
+TLINK
+*.EXE
+*.OBJ
+*.OVL
